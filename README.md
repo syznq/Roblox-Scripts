@@ -19,7 +19,7 @@ This repository contains working scripts for various Roblox games. All scripts a
 
 ## Features
 
-- Tested and working
+- Tested and fully working
 - Easy to use
 - Free & keyless
 
@@ -54,13 +54,6 @@ loadstring(game:HttpGet("RAW_SCRIPT_URL_HERE"))()
 Need help or found a bug?
 
 **Discord:** vezekk#0
-
-## Stats
-
-![GitHub stars](https://img.shields.io/github/stars/syznq/Roblox-Scripts?style=social)
-![GitHub forks](https://img.shields.io/github/forks/syznq/Roblox-Scripts?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/syznq/Roblox-Scripts?style=social)
-
 
 <p align="center">Made by syznq</p>
 <p align="center">
