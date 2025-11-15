@@ -11,7 +11,7 @@ local ESP = {
     TracerColor = Color3.fromRGB(255, 0, 0),
     TeamColor = true,
     UpdateRate = 0.05,
-    VisibilityCheck = true
+    VisibilityCheck = false
 }
 
 local Players = game:GetService("Players")
