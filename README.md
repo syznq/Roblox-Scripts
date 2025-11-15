@@ -9,7 +9,6 @@ A collection of free scripts for Roblox games.
 - [About](#about)
 - [Features](#features)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 - [Support](#support)
 
