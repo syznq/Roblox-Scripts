@@ -45,7 +45,7 @@ loadstring(game:HttpGet("RAW_SCRIPT_URL_HERE"))()
 
 **IMPORTANT READ THIS:**
 
-- We are not responsible for what happens to your account
+- I'm not responsible for what happens to your account
 - Always use an alt account
 
 ## Support
